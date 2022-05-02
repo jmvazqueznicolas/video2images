@@ -186,6 +186,9 @@ cython_debug/
 # Ignore code-workspaces
 *.code-workspace
 /images
+/cam_1
+/cams_3-4
+/cams_3-4_HD
 /frames_cropped
 *.mp4
 
